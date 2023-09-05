@@ -1,0 +1,468 @@
+id,name,urban_area,state_code,state,postcode,type,latitude,longitude,elevation,population,median_income,area_sq_km,local_government_area,region,time_zone
+1,Aarons Pass,,NSW,New South Wales,2850,Rural locality,-32.86328,149.80375,804,33,46124,82.76400,Mid-Western Regional,Central West,Australia/Sydney
+2,Abba River,,WA,Western Australia,6280,Rural locality,-33.68488,115.46334,23,83,46020,28.51600,Busselton,Bunbury,Australia/Perth
+3,Abbey,Busselton,WA,Western Australia,6280,Suburb,-33.66077,115.25863,7,1321,43524,2.64400,Busselton,Bunbury,Australia/Perth
+4,Abbeyard,,VIC,Victoria,3737,Rural locality,-36.96978,146.75244,415,4,4758000,327.50100,Alpine,Hume,Australia/Melbourne
+5,Abbeywood,,QLD,Queensland,4613,Rural locality,-26.10688,151.62880,429,38,24648,35.03500,South Burnett,Wide Bay,Australia/Brisbane
+6,Abbotsbury,Sydney,NSW,New South Wales,2176,Suburb,-33.87754,150.86777,80,4200,43992,4.97900,Fairfield,Sydney - South West,Australia/Sydney
+7,Abbotsford,Sydney,NSW,New South Wales,2046,Suburb,-33.85247,151.12945,24,5431,61308,1.01800,Canada Bay,Sydney - Inner West,Australia/Sydney
+8,Abbotsford,,QLD,Queensland,4670,Rural locality,-24.84369,152.02491,75,20,18148,85.76400,Bundaberg,Wide Bay,Australia/Brisbane
+9,Abbotsford,Melbourne,VIC,Victoria,3067,Suburb,-37.80329,145.00043,25,9088,70408,1.74100,Yarra,Melbourne - Inner,Australia/Melbourne
+10,Abbotsham,,TAS,Tasmania,7315,Rural locality,-41.21131,146.17558,102,89,39624,8.15500,Central Coast,West and North West,Australia/Hobart
+11,Abels Bay,,TAS,Tasmania,7112,Rural locality,-43.23333,147.09803,21,127,23088,5.21100,Huon Valley,South East,Australia/Hobart
+12,Abercorn,,QLD,Queensland,4627,Rural locality,-25.13664,151.12935,200,41,27300,94.27300,North Burnett,Wide Bay,Australia/Brisbane
+13,Abercrombie,Bathurst,NSW,New South Wales,2795,Suburb,-33.38996,149.55047,661,1127,53508,2.97800,Bathurst Regional,Central West,Australia/Sydney
+14,Abercrombie River,,NSW,New South Wales,2795,Rural locality,-33.91055,149.34763,757,21,28600,127.17000,Bathurst Regional,Central West,Australia/Sydney
+15,Aberdare,Cessnock,NSW,New South Wales,2325,Suburb,-32.84420,151.37651,95,2542,33280,3.29600,Cessnock,Hunter Valley exc Newcastle,Australia/Sydney
+16,Aberdeen,,NSW,New South Wales,2336,Urban locality,-32.16240,150.89012,178,2051,37232,41.63300,Upper Hunter Shire,Hunter Valley exc Newcastle,Australia/Sydney
+17,Aberdeen,,TAS,Tasmania,7310,Rural locality,-41.24112,146.32449,108,268,37908,4.22900,Devonport,West and North West,Australia/Hobart
+18,Aberfeldie,Melbourne,VIC,Victoria,3040,Suburb,-37.75669,144.89626,44,3925,54756,1.55200,Moonee Valley,Melbourne - Inner,Australia/Melbourne
+19,Aberfeldy,,VIC,Victoria,3825,Rural locality,-37.69657,146.36406,1076,7,49348,10.83200,Baw Baw,Latrobe - Gippsland,Australia/Melbourne
+20,Aberfoyle,,NSW,New South Wales,2350,Rural locality,-30.24061,152.01293,1152,121,54132,340.47900,Armidale Regional,New England and North West,Australia/Sydney
+21,Aberfoyle Park,Adelaide,SA,South Australia,5159,Suburb,-35.07628,138.59372,187,11234,40716,5.84400,Onkaparinga,Adelaide - South,Australia/Adelaide
+22,Aberglasslyn,Maitland,NSW,New South Wales,2320,Suburb,-32.69466,151.53461,39,6552,45812,6.21500,Maitland,Hunter Valley exc Newcastle,Australia/Sydney
+23,Abergowrie,,QLD,Queensland,4850,Rural locality,-18.47499,145.88579,53,305,42328,306.26500,Hinchinbrook,Townsville,Australia/Brisbane
+24,Abermain,Kurri Kurri,NSW,New South Wales,2326,Suburb,-32.81082,151.42867,34,2544,34684,15.38200,Cessnock,Hunter Valley exc Newcastle,Australia/Sydney
+25,Abernethy,,NSW,New South Wales,2325,Urban locality,-32.88324,151.39668,91,317,38324,8.40300,Cessnock,Hunter Valley exc Newcastle,Australia/Sydney
+26,Abingdon Downs,,QLD,Queensland,4892,Rural locality,-17.79980,143.43956,255,17,67184,5052.02800,Etheridge,Queensland - Outback,Australia/Brisbane
+27,Abington,,NSW,New South Wales,2350,Rural locality,-30.29421,151.25027,740,29,55900,174.31400,Uralla,New England and North West,Australia/Sydney
+28,Abington,,QLD,Queensland,4660,Rural locality,-25.20324,152.32893,61,60,31512,19.56500,Bundaberg,Wide Bay,Australia/Brisbane
+29,Acacia Creek,,NSW,New South Wales,2476,Rural locality,-28.37333,152.32088,607,30,29900,6.26100,Tenterfield,New England and North West,Australia/Sydney
+30,Acacia Gardens,Sydney,NSW,New South Wales,2763,Suburb,-33.73355,150.91371,87,3668,54860,1.00100,Blacktown,Sydney - Blacktown,Australia/Sydney
+31,Acacia Hills,,NT,Northern Territory,0822,Rural locality,-12.79565,131.12295,38,711,56004,127.30900,Litchfield,Darwin,Australia/Darwin
+32,Acacia Hills,,TAS,Tasmania,7306,Rural locality,-41.28049,146.32495,143,729,42432,19.25700,Kentish,West and North West,Australia/Hobart
+33,Acacia Ridge,Brisbane,QLD,Queensland,4110,Suburb,-27.58963,153.02787,39,7486,32656,8.68800,Brisbane,Brisbane - South,Australia/Brisbane
+34,Acheron,,VIC,Victoria,3714,Rural locality,-37.25243,145.70202,202,146,40716,72.66000,Murrindindi,Hume,Australia/Melbourne
+35,Acland,,QLD,Queensland,4401,Rural locality,-27.30370,151.69110,444,3,11700,38.17900,Toowoomba,Darling Downs - Maranoa,Australia/Brisbane
+36,Acton,Canberra,ACT,Australian Capital Territory,2601,Suburb,-35.28732,149.11213,556,2848,13364,5.98900,Unincorporated,Australian Capital Territory,Australia/Sydney
+37,Acton,Burnie - Somerset,TAS,Tasmania,7320,Suburb,-41.07007,145.89399,152,1377,32500,0.95400,Burnie,West and North West,Australia/Hobart
+38,Acton Park,Hobart,TAS,Tasmania,7170,Suburb,-42.86574,147.46989,103,2293,55016,19.19900,Clarence,Hobart,Australia/Hobart
+39,Acton Park,,WA,Western Australia,6280,Rural locality,-33.77704,115.37437,53,92,38012,24.85400,Busselton,Bunbury,Australia/Perth
+40,Ada,,VIC,Victoria,3833,Rural locality,-37.84087,145.84969,669,0,0,61.67000,Baw Baw,Latrobe - Gippsland,Australia/Melbourne
+41,Adaminaby,,NSW,New South Wales,2629,Urban locality,-35.99735,148.76974,1022,339,30576,356.49600,Snowy Monaro Regional,Capital Region,Australia/Sydney
+42,Adams Estate,,VIC,Victoria,3984,Rural locality,-38.42519,145.53186,83,83,31148,0.21500,Bass Coast,Latrobe - Gippsland,Australia/Melbourne
+43,Adamstown,Newcastle,NSW,New South Wales,2289,Suburb,-32.93254,151.72625,25,6335,48100,3.05100,Newcastle,Newcastle and Lake Macquarie,Australia/Sydney
+44,Adamstown Heights,Newcastle,NSW,New South Wales,2289,Suburb,-32.95098,151.71770,97,5621,51116,2.39400,Newcastle,Newcastle and Lake Macquarie,Australia/Sydney
+45,Adamsvale,,WA,Western Australia,6375,Rural locality,-32.24941,117.72485,298,41,61048,246.52000,Corrigin,Western Australia - Wheat Belt,Australia/Perth
+46,Adare,,QLD,Queensland,4343,Rural locality,-27.52154,152.28656,122,1027,34268,39.04900,Lockyer Valley,Toowoomba,Australia/Brisbane
+47,Adavale,,QLD,Queensland,4474,Rural locality,-25.91190,144.70107,285,72,27248,21354.75700,Quilpie,Queensland - Outback,Australia/Brisbane
+48,Addington,,VIC,Victoria,3352,Rural locality,-37.38446,143.67251,464,65,25116,18.59600,Ballarat,Ballarat,Australia/Melbourne
+49,Adelaide,,SA,South Australia,5000,Major urban locality,-34.92577,138.59973,75,18202,37752,10.48200,Adelaide,Adelaide - Central and Hills,Australia/Adelaide
+50,Adelaide Airport,Adelaide,SA,South Australia,5950,Suburb,-34.93726,138.53916,11,4,4810000,7.29500,West Torrens,Adelaide - West,Australia/Adelaide
+51,Adelaide Lead,,VIC,Victoria,3465,Rural locality,-37.07467,143.67736,235,85,25636,38.50300,Central Goldfields,Ballarat,Australia/Melbourne
+52,Adelaide Park,,QLD,Queensland,4703,Rural locality,-23.11468,150.69673,63,449,44096,24.13900,Livingstone,Central Queensland,Australia/Brisbane
+53,Adelaide River,,NT,Northern Territory,0846,Rural locality,-13.19095,131.13760,45,317,30316,146.73800,Coomalie,Northern Territory - Outback,Australia/Darwin
+54,Adelong,,NSW,New South Wales,2729,Urban locality,-35.30795,148.06368,338,938,31148,20.27000,Snowy Valleys,Riverina,Australia/Sydney
+55,Adjungbilly,,NSW,New South Wales,2727,Rural locality,-35.08146,148.40992,513,101,54600,438.10100,Cootamundra-Gundagai Regional,Riverina,Australia/Sydney
+56,Advancetown,,QLD,Queensland,4211,Rural locality,-28.03305,153.27963,55,528,45344,63.55300,Gold Coast,Gold Coast,Australia/Brisbane
+57,Adventure Bay,,TAS,Tasmania,7150,Rural locality,-43.35579,147.32612,16,218,29068,11.42700,Kingborough,South East,Australia/Hobart
+58,Aeroglen,Cairns,QLD,Queensland,4870,Suburb,-16.88394,145.74673,6,405,46956,9.86400,Cairns,Cairns,Australia/Brisbane
+59,Afterlee,,NSW,New South Wales,2474,Rural locality,-28.59388,152.82575,238,32,30992,34.78400,Kyogle,Richmond - Tweed,Australia/Sydney
+60,Agery,,SA,South Australia,5558,Rural locality,-34.15690,137.74281,105,90,43940,159.28800,Yorke Peninsula,Barossa - Yorke - Mid North,Australia/Adelaide
+61,Agnes,,VIC,Victoria,3962,Rural locality,-38.67015,146.39615,21,61,22620,15.71700,South Gippsland,Latrobe - Gippsland,Australia/Melbourne
+62,Agnes Banks,,NSW,New South Wales,2753,Rural locality,-33.61888,150.70737,27,996,49556,15.47500,Penrith,Sydney - Outer West and Blue Mountains,Australia/Sydney
+63,Agnes Water,,QLD,Queensland,4677,Urban locality,-24.21251,151.90335,25,2729,30108,40.26200,Gladstone,Central Queensland,Australia/Brisbane
+64,Ainslie,Canberra,ACT,Australian Capital Territory,2602,Suburb,-35.26215,149.14589,593,5376,64272,3.54100,Unincorporated,Australian Capital Territory,Australia/Sydney
+65,Aintree,,VIC,Victoria,3336,Rural locality,-37.71721,144.66366,126,7982,50960,6.73000,Melton,Melbourne - West,Australia/Melbourne
+66,Airdmillan,,QLD,Queensland,4807,Rural locality,-19.54686,147.44370,11,154,49816,57.42900,Burdekin,Townsville,Australia/Brisbane
+67,Airds,Sydney,NSW,New South Wales,2560,Suburb,-34.08447,150.82904,139,3265,23452,2.38100,Campbelltown,Sydney - Outer South West,Australia/Sydney
+68,Aire Valley,,VIC,Victoria,3237,Rural locality,-38.69611,143.56898,399,0,0,16.23800,Colac Otway,Warrnambool and South West,Australia/Melbourne
+69,Aireys Inlet,,VIC,Victoria,3231,Urban locality,-38.45944,144.10689,51,979,46540,19.61400,Surf Coast,Geelong,Australia/Melbourne
+70,Airlie Beach,,QLD,Queensland,4802,Urban locality,-20.26787,148.71622,13,1312,48464,3.05300,Whitsunday,Mackay - Isaac - Whitsunday,Australia/Brisbane
+71,Airly,,VIC,Victoria,3851,Rural locality,-38.03555,147.08440,14,160,39936,25.16600,Wellington,Latrobe - Gippsland,Australia/Melbourne
+72,Airport West,Melbourne,VIC,Victoria,3042,Suburb,-37.71170,144.88704,89,8173,45916,3.67500,Moonee Valley,Melbourne - North West,Australia/Melbourne
+73,Airville,,QLD,Queensland,4807,Rural locality,-19.65354,147.33726,19,308,46800,43.90900,Burdekin,Townsville,Australia/Brisbane
+74,Aitkenvale,Townsville,QLD,Queensland,4814,Suburb,-19.29771,146.76434,14,4797,38480,3.30700,Townsville,Townsville,Australia/Brisbane
+75,Ajana,,WA,Western Australia,6532,Rural locality,-27.94861,114.61132,213,51,27300,727.82400,Northampton,Western Australia - Outback (South),Australia/Perth
+76,Akaroa,,TAS,Tasmania,7216,Urban locality,-41.30452,148.31671,8,130,28600,5.46300,Break O'Day,Launceston and North East,Australia/Hobart
+77,Akolele,,NSW,New South Wales,2546,Urban locality,-36.35580,150.07685,30,165,22620,5.95000,Eurobodalla,Capital Region,Australia/Sydney
+78,Alabama Hill,Charters Towers,QLD,Queensland,4820,Suburb,-20.08292,146.24937,356,103,35100,0.78400,Charters Towers,Townsville,Australia/Brisbane
+79,Alawa,Darwin,NT,Northern Territory,0810,Suburb,-12.37896,130.87423,21,2078,47580,1.24000,Darwin,Darwin,Australia/Darwin
+80,Alawoona,,SA,South Australia,5311,Rural locality,-34.73589,140.50879,74,25,25428,201.45600,Loxton Waikerie,South Australia - South East,Australia/Adelaide
+81,Albacutya,,VIC,Victoria,3424,Rural locality,-35.69201,141.97654,85,0,0,98.51900,Hindmarsh,North West,Australia/Melbourne
+82,Albanvale,Melbourne,VIC,Victoria,3021,Suburb,-37.74593,144.77003,74,5641,25376,1.86300,Brimbank,Melbourne - West,Australia/Melbourne
+83,Albany,,WA,Western Australia,6330,Major urban locality,-35.02387,117.88354,25,1403,45916,1.96100,Albany,Western Australia - Wheat Belt,Australia/Perth
+84,Albany Creek,Brisbane,QLD,Queensland,4035,Suburb,-27.34553,152.96840,21,16385,49608,9.62400,Moreton Bay,Moreton Bay - South,Australia/Brisbane
+85,Albert,,NSW,New South Wales,2873,Rural locality,-32.41586,147.50811,249,77,31824,690.58000,Lachlan,Central West,Australia/Sydney
+86,Alberta,,QLD,Queensland,4702,Rural locality,-24.32548,149.78253,97,36,45760,385.43400,Banana,Central Queensland,Australia/Brisbane
+87,Alberton,,QLD,Queensland,4207,Rural locality,-27.70787,153.26916,6,547,38636,16.19900,Gold Coast,Gold Coast,Australia/Brisbane
+88,Alberton,Adelaide,SA,South Australia,5014,Suburb,-34.85922,138.51953,9,1860,40508,0.95600,Port Adelaide Enfield,Adelaide - West,Australia/Adelaide
+89,Alberton,,TAS,Tasmania,7263,Rural locality,-41.29309,147.78932,310,14,18200,32.91700,Dorset,Launceston and North East,Australia/Hobart
+90,Alberton,,VIC,Victoria,3971,Rural locality,-38.61139,146.66598,12,297,25376,45.10300,Wellington,Latrobe - Gippsland,Australia/Melbourne
+91,Alberton West,,VIC,Victoria,3971,Rural locality,-38.59869,146.58795,21,76,27300,25.08300,Wellington,Latrobe - Gippsland,Australia/Melbourne
+92,Albert Park,Adelaide,SA,South Australia,5014,Suburb,-34.87831,138.52135,10,1780,39104,0.90600,Charles Sturt,Adelaide - West,Australia/Adelaide
+93,Albert Park,Melbourne,VIC,Victoria,3206,Suburb,-37.84071,144.95571,10,6044,69316,2.83900,Port Phillip,Melbourne - Inner,Australia/Melbourne
+94,Albinia,,QLD,Queensland,4722,Rural locality,-24.43965,148.39740,237,165,97500,1068.01800,Central Highlands,Central Queensland,Australia/Brisbane
+95,Albion,Brisbane,QLD,Queensland,4010,Suburb,-27.42803,153.04521,35,3446,60736,1.31500,Brisbane,Brisbane Inner City,Australia/Brisbane
+96,Albion,,QLD,Queensland,4822,Rural locality,-21.50903,142.69317,196,34,43316,5538.56500,Richmond,Queensland - Outback,Australia/Brisbane
+97,Albion,Melbourne,VIC,Victoria,3020,Suburb,-37.77595,144.81940,44,4334,36816,2.51900,Brimbank,Melbourne - West,Australia/Melbourne
+98,Albion Park,Wollongong,NSW,New South Wales,2527,Suburb,-34.57072,150.77503,12,13826,41808,9.09800,Shellharbour,Illawarra,Australia/Sydney
+99,Albion Park Rail,Wollongong,NSW,New South Wales,2527,Suburb,-34.56084,150.79575,6,6920,33072,7.16300,Shellharbour,Illawarra,Australia/Sydney
+100,Albury,,NSW,New South Wales,2640,Major urban locality,-36.08214,146.91017,157,4955,48360,5.68300,Albury,Murray,Australia/Sydney
+101,Alcomie,,TAS,Tasmania,7330,Rural locality,-40.93487,145.18523,215,58,18200,32.33000,Circular Head,West and North West,Australia/Hobart
+102,Aldavilla,Kempsey,NSW,New South Wales,2440,Suburb,-31.05895,152.76814,13,1443,32448,15.07600,Kempsey,Mid North Coast,Australia/Sydney
+103,Alderley,Brisbane,QLD,Queensland,4051,Suburb,-27.42442,153.00052,39,6748,61880,2.57000,Brisbane,Brisbane Inner City,Australia/Brisbane
+104,Aldershot,,QLD,Queensland,4650,Rural locality,-25.47455,152.66010,19,1311,25740,10.24100,Fraser Coast,Wide Bay,Australia/Brisbane
+105,Aldersyde,,WA,Western Australia,6306,Rural locality,-32.37423,117.30582,238,41,68224,389.84100,Brookton,Western Australia - Wheat Belt,Australia/Perth
+106,Aldgate,Crafers - Bridgewater,SA,South Australia,5154,Suburb,-35.01512,138.73619,421,3471,51740,8.40600,Adelaide Hills,Adelaide - Central and Hills,Australia/Adelaide
+107,Aldinga,,SA,South Australia,5173,Urban locality,-35.26733,138.48314,33,764,32604,13.33200,Onkaparinga,Adelaide - South,Australia/Adelaide
+108,Aldinga Beach,Adelaide,SA,South Australia,5173,Suburb,-35.27888,138.46180,24,10667,34216,13.66800,Onkaparinga,Adelaide - South,Australia/Adelaide
+109,Aldoga,,QLD,Queensland,4694,Rural locality,-23.83529,151.07133,58,0,0,82.07400,Gladstone,Central Queensland,Australia/Brisbane
+110,Alectown,,NSW,New South Wales,2870,Rural locality,-32.91427,148.26801,377,151,38116,277.14400,Parkes,Central West,Australia/Sydney
+111,Alexander Heights,Perth,WA,Western Australia,6064,Suburb,-31.82761,115.86713,69,7772,36556,3.18200,Wanneroo,Perth - North West,Australia/Perth
+112,Alexandra,,QLD,Queensland,4740,Rural locality,-21.16447,149.09961,20,189,53456,7.47400,Mackay,Mackay - Isaac - Whitsunday,Australia/Brisbane
+113,Alexandra,,VIC,Victoria,3714,Urban locality,-37.19131,145.71106,222,2801,32708,79.44000,Murrindindi,Hume,Australia/Melbourne
+114,Alexandra Bridge,,WA,Western Australia,6288,Rural locality,-34.16062,115.19957,23,3,23400,6.60100,Augusta Margaret River,Bunbury,Australia/Perth
+115,Alexandra Headland,Sunshine Coast,QLD,Queensland,4572,Suburb,-26.67064,153.10804,8,4235,46852,1.50400,Sunshine Coast,Sunshine Coast,Australia/Brisbane
+116,Alexandra Hills,Brisbane,QLD,Queensland,4161,Suburb,-27.52277,153.22046,45,16472,42848,13.69000,Redland,Brisbane - East,Australia/Brisbane
+117,Alexandria,Sydney,NSW,New South Wales,2015,Suburb,-33.90987,151.19282,6,9649,84708,3.53700,Sydney,Sydney - City and Inner South,Australia/Sydney
+118,Alford,,SA,South Australia,5555,Rural locality,-33.81518,137.82127,67,159,41080,219.07800,Barunga West,Barossa - Yorke - Mid North,Australia/Adelaide
+119,Alfords Point,Sydney,NSW,New South Wales,2234,Suburb,-33.99330,151.02475,100,3131,49712,2.56700,Sutherland Shire,Sydney - Sutherland,Australia/Sydney
+120,Alfred Cove,Perth,WA,Western Australia,6156,Suburb,-32.03424,115.80861,13,2830,51636,1.08300,Melville,Perth - South West,Australia/Perth
+121,Alfredton,Ballarat,VIC,Victoria,3350,Suburb,-37.55696,143.81723,459,11822,43732,8.01000,Ballarat,Ballarat,Australia/Melbourne
+122,Alfredtown,,NSW,New South Wales,2650,Rural locality,-35.16147,147.51238,198,80,42328,75.07900,Wagga Wagga,Riverina,Australia/Sydney
+123,Algester,Brisbane,QLD,Queensland,4115,Suburb,-27.61130,153.03352,33,9020,39104,3.69000,Brisbane,Brisbane - South,Australia/Brisbane
+124,Alice,,NSW,New South Wales,2469,Rural locality,-29.05024,152.58745,117,4,17316,13.27500,Clarence Valley,Coffs Harbour - Grafton,Australia/Sydney
+125,Alice Creek,,QLD,Queensland,4610,Rural locality,-26.76002,151.63170,575,50,28600,88.11400,South Burnett,Wide Bay,Australia/Brisbane
+126,Alice River,,QLD,Queensland,4817,Urban locality,-19.32661,146.59971,50,2685,51792,39.75800,Townsville,Townsville,Australia/Brisbane
+127,Alice Springs,,NT,Northern Territory,0870,Major urban locality,-23.70036,133.88089,581,231,49504,1.34200,Alice Springs,Northern Territory - Outback,Australia/Darwin
+128,Ali Curung,,NT,Northern Territory,0872,Urban locality,-21.00041,134.39409,378,394,20332,443.15000,Barkly,Northern Territory - Outback,Australia/Darwin
+129,Alison,,NSW,New South Wales,2259,Rural locality,-33.26817,151.39865,8,85,34788,1.39600,Central Coast,Central Coast,Australia/Sydney
+130,Alison,,NSW,New South Wales,2420,Rural locality,-32.43480,151.77193,90,99,41184,19.27100,Dungog,Hunter Valley exc Newcastle,Australia/Sydney
+131,Alkimos,Perth,WA,Western Australia,6038,Suburb,-31.61455,115.68059,40,10203,50804,17.25400,Wanneroo,Perth - North West,Australia/Perth
+132,Allambee,,VIC,Victoria,3823,Rural locality,-38.29287,146.02163,359,24,37648,13.53300,Baw Baw,Latrobe - Gippsland,Australia/Melbourne
+133,Allambee Reserve,,VIC,Victoria,3871,Rural locality,-38.28526,146.05489,417,96,39988,33.06200,Baw Baw,Latrobe - Gippsland,Australia/Melbourne
+134,Allambee South,,VIC,Victoria,3871,Rural locality,-38.34374,146.09959,170,61,36816,9.58300,South Gippsland,Latrobe - Gippsland,Australia/Melbourne
+135,Allambie Heights,Sydney,NSW,New South Wales,2100,Suburb,-33.76508,151.24886,126,7317,52312,6.67500,Northern Beaches,Sydney - Northern Beaches,Australia/Sydney
+136,Allan,,QLD,Queensland,4370,Rural locality,-28.19557,151.94953,456,91,39416,8.85900,Southern Downs,Darling Downs - Maranoa,Australia/Brisbane
+137,Allandale,,NSW,New South Wales,2320,Rural locality,-32.71069,151.42353,55,68,56316,10.48300,Maitland,Hunter Valley exc Newcastle,Australia/Sydney
+138,Allandale,,QLD,Queensland,4310,Rural locality,-28.00836,152.75909,217,69,34424,48.77200,Scenic Rim,Ipswich,Australia/Brisbane
+139,Allanooka,,WA,Western Australia,6525,Rural locality,-29.04726,115.02908,100,19,58500,323.58400,Irwin,Western Australia - Outback (South),Australia/Perth
+140,Allans Flat,,VIC,Victoria,3691,Rural locality,-36.27611,146.90982,206,297,48516,38.33100,Indigo,Hume,Australia/Melbourne
+141,Allansford,,VIC,Victoria,3277,Urban locality,-38.38647,142.59067,15,1410,42692,85.63600,Warrnambool,Warrnambool and South West,Australia/Melbourne
+142,Allanson,,WA,Western Australia,6225,Urban locality,-33.33753,116.09806,191,591,38220,24.79600,Collie,Bunbury,Australia/Perth
+143,Allawah,Sydney,NSW,New South Wales,2218,Suburb,-33.97002,151.11452,55,5351,39780,0.58400,Georges River,Sydney - Inner South West,Australia/Sydney
+144,Alleena,,NSW,New South Wales,2671,Rural locality,-34.10946,147.14097,284,60,46800,269.63300,Bland,Central West,Australia/Sydney
+145,Allenby Gardens,Adelaide,SA,South Australia,5009,Suburb,-34.90433,138.55515,18,2045,41392,0.82600,Charles Sturt,Adelaide - West,Australia/Adelaide
+146,Allendale,,VIC,Victoria,3364,Rural locality,-37.36871,143.93855,479,185,40768,14.23800,Hepburn,Ballarat,Australia/Melbourne
+147,Allendale East,,SA,South Australia,5291,Urban locality,-38.00337,140.70894,16,484,36556,50.11700,Grant,South Australia - South East,Australia/Adelaide
+148,Allendale North,,SA,South Australia,5373,Rural locality,-34.30398,138.91766,277,162,37700,46.95500,Light,Barossa - Yorke - Mid North,Australia/Adelaide
+149,Allens Rivulet,,TAS,Tasmania,7150,Rural locality,-43.01068,147.20406,148,506,45188,11.97200,Kingborough,Hobart,Australia/Hobart
+150,Allenstown,Rockhampton,QLD,Queensland,4700,Suburb,-23.38894,150.50287,13,2762,36452,2.22900,Rockhampton,Central Queensland,Australia/Brisbane
+151,Allenview,,QLD,Queensland,4285,Rural locality,-27.90126,152.93908,36,209,38272,43.49400,Scenic Rim,Logan - Beaudesert,Australia/Brisbane
+152,Allestree,,VIC,Victoria,3305,Rural locality,-38.27035,141.65616,10,168,32448,7.96000,Glenelg,Warrnambool and South West,Australia/Melbourne
+153,Allgomera,,NSW,New South Wales,2441,Rural locality,-30.81610,152.83137,51,139,25012,120.38800,Nambucca Valley,Mid North Coast,Australia/Sydney
+154,Alligator Creek,,QLD,Queensland,4740,Rural locality,-21.32393,149.21106,16,897,49452,78.03000,Mackay,Mackay - Isaac - Whitsunday,Australia/Brisbane
+155,Alligator Creek,,QLD,Queensland,4816,Urban locality,-19.42492,146.94720,26,1550,52936,49.40200,Townsville,Townsville,Australia/Brisbane
+156,Allora,,QLD,Queensland,4362,Urban locality,-28.03585,151.98272,473,1205,29588,96.47300,Southern Downs,Darling Downs - Maranoa,Australia/Brisbane
+157,Alloway,,QLD,Queensland,4670,Rural locality,-24.95238,152.36214,29,488,39208,72.78800,Bundaberg,Wide Bay,Australia/Brisbane
+158,Allworth,,NSW,New South Wales,2425,Rural locality,-32.54169,151.96093,20,190,33332,18.25100,Mid-Coast,Mid North Coast,Australia/Sydney
+159,Allynbrook,,NSW,New South Wales,2311,Rural locality,-32.36334,151.53623,89,54,34424,34.18200,Dungog,Hunter Valley exc Newcastle,Australia/Sydney
+160,Alma,,SA,South Australia,5401,Rural locality,-34.26662,138.63086,177,66,56316,102.78600,Wakefield,Barossa - Yorke - Mid North,Australia/Adelaide
+161,Alma,,VIC,Victoria,3465,Rural locality,-37.02881,143.67682,212,195,25844,20.69400,Central Goldfields,Ballarat,Australia/Melbourne
+162,Alma,,WA,Western Australia,6535,Rural locality,-28.23338,114.69358,281,116,45760,342.00500,Northampton,Western Australia - Outback (South),Australia/Perth
+163,Almaden,,QLD,Queensland,4871,Rural locality,-17.34006,144.67813,498,41,28912,797.52500,Mareeba,Queensland - Outback,Australia/Brisbane
+164,Alma Park,,NSW,New South Wales,2659,Rural locality,-35.60413,146.79169,213,58,39988,87.68500,Greater Hume Shire,Murray,Australia/Sydney
+165,Almonds,,VIC,Victoria,3727,Rural locality,-36.22497,146.06069,177,31,29900,31.57200,Moira,Shepparton,Australia/Melbourne
+166,Almurta,,VIC,Victoria,3979,Rural locality,-38.45863,145.58388,66,66,29900,16.58900,Bass Coast,Latrobe - Gippsland,Australia/Melbourne
+167,Alonnah,,TAS,Tasmania,7150,Rural locality,-43.32148,147.24218,5,164,29432,15.20400,Kingborough,South East,Australia/Hobart
+168,Aloomba,,QLD,Queensland,4871,Rural locality,-17.11626,145.83486,13,576,43004,110.98000,Cairns,Cairns,Australia/Brisbane
+169,Alpha,,QLD,Queensland,4724,Urban locality,-23.64966,146.64107,353,559,49556,12669.43600,Barcaldine,Queensland - Outback,Australia/Brisbane
+170,Alphington,Melbourne,VIC,Victoria,3078,Suburb,-37.78077,145.03116,38,5702,62348,2.81700,Yarra,Melbourne - Inner,Australia/Melbourne
+171,Alpine,,NSW,New South Wales,2575,Rural locality,-34.40952,150.52396,605,141,48360,23.03300,Wingecarribee,Southern Highlands and Shoalhaven,Australia/Sydney
+172,Alpurrurulam,,NT,Northern Territory,4825,Urban locality,-20.98411,137.85075,201,350,12792,9.99300,Barkly,Northern Territory - Outback,Australia/Darwin
+173,Alsace,,QLD,Queensland,4702,Rural locality,-23.27589,149.35051,134,11,64948,351.82300,Central Highlands,Central Queensland,Australia/Brisbane
+174,Alstonvale,,NSW,New South Wales,2477,Rural locality,-28.80561,153.44548,129,431,43888,10.25800,Ballina,Richmond - Tweed,Australia/Sydney
+175,Alstonville,,NSW,New South Wales,2477,Urban locality,-28.84213,153.44036,150,5912,34892,28.82500,Ballina,Richmond - Tweed,Australia/Sydney
+176,Altona,,SA,South Australia,5351,Rural locality,-34.59717,138.91362,233,114,42172,8.87900,Barossa,Barossa - Yorke - Mid North,Australia/Adelaide
+177,Altona,Melbourne,VIC,Victoria,3018,Suburb,-37.86928,144.83029,8,11490,49244,16.73500,Hobsons Bay,Melbourne - West,Australia/Melbourne
+178,Altona Meadows,Melbourne,VIC,Victoria,3028,Suburb,-37.87163,144.77808,11,18479,37960,10.54200,Hobsons Bay,Melbourne - West,Australia/Melbourne
+179,Altona North,Melbourne,VIC,Victoria,3025,Suburb,-37.83471,144.84768,17,12962,39156,14.03900,Hobsons Bay,Melbourne - West,Australia/Melbourne
+180,Alton Downs,,QLD,Queensland,4702,Rural locality,-23.30718,150.38804,29,1324,47424,177.47200,Rockhampton,Central Queensland,Australia/Brisbane
+181,Alumy Creek,,NSW,New South Wales,2460,Rural locality,-29.64092,152.95145,5,86,30836,9.05300,Clarence Valley,Coffs Harbour - Grafton,Australia/Sydney
+182,Alva,,QLD,Queensland,4807,Urban locality,-19.45750,147.48173,7,214,37440,112.82200,Burdekin,Townsville,Australia/Brisbane
+183,Alvie,,VIC,Victoria,3249,Rural locality,-38.24432,143.48190,120,141,35932,25.30600,Colac Otway,Warrnambool and South West,Australia/Melbourne
+184,Alyangula,,NT,Northern Territory,0885,Urban locality,-13.85287,136.42249,27,751,95888,2.74300,Unincorporated,Northern Territory - Outback,Australia/Darwin
+185,Amamoor,,QLD,Queensland,4570,Rural locality,-26.34524,152.67499,74,720,28444,34.35600,Gympie,Wide Bay,Australia/Brisbane
+186,Amamoor Creek,,QLD,Queensland,4570,Rural locality,-26.35952,152.56331,128,56,23816,168.81400,Gympie,Wide Bay,Australia/Brisbane
+187,Amaroo,Canberra,ACT,Australian Capital Territory,2914,Suburb,-35.17033,149.12588,631,6129,62764,2.58700,Unincorporated,Australian Capital Territory,Australia/Sydney
+188,Amaroo,,NSW,New South Wales,2866,Rural locality,-33.16432,148.92084,626,44,53300,16.78000,Cabonne,Central West,Australia/Sydney
+189,Amaroo,,QLD,Queensland,4829,Rural locality,-23.39387,139.67312,119,17,60112,9358.70400,Boulia,Queensland - Outback,Australia/Brisbane
+190,Amata,,SA,South Australia,0872,Urban locality,-26.15662,131.14472,694,393,14768,11.24800,Anangu Pitjantjatjara Yunkunytjatjara,South Australia - Outback,Australia/Adelaide
+191,Ambania,,WA,Western Australia,6632,Rural locality,-28.69532,115.11880,235,15,53612,327.85500,Greater Geraldton,Western Australia - Outback (South),Australia/Perth
+192,Ambarvale,Sydney,NSW,New South Wales,2560,Suburb,-34.08047,150.80364,86,7254,32760,2.84800,Campbelltown,Sydney - Outer South West,Australia/Sydney
+193,Amber,,QLD,Queensland,4871,Rural locality,-17.74731,144.31566,408,0,0,1032.89800,Mareeba,Queensland - Outback,Australia/Brisbane
+194,Ambergate,,WA,Western Australia,6280,Rural locality,-33.71163,115.32628,21,564,43888,38.39500,Busselton,Bunbury,Australia/Perth
+195,Amberley,Brisbane,QLD,Queensland,4306,Suburb,-27.64043,152.70240,42,619,66248,26.11100,Ipswich,Ipswich,Australia/Brisbane
+196,Ambleside,Devonport,TAS,Tasmania,7310,Suburb,-41.20612,146.37295,15,695,36192,1.09200,Devonport,West and North West,Australia/Hobart
+197,Ambrose,,QLD,Queensland,4695,Rural locality,-23.78568,150.92680,36,217,24388,63.26300,Gladstone,Central Queensland,Australia/Brisbane
+198,Amby,,QLD,Queensland,4462,Rural locality,-26.54921,148.18690,354,49,26624,198.98000,Maranoa,Darling Downs - Maranoa,Australia/Brisbane
+199,Amelup,,WA,Western Australia,6338,Rural locality,-34.23847,118.22088,185,71,56316,402.44100,Gnowangerup,Western Australia - Wheat Belt,Australia/Perth
+200,American Beach,,SA,South Australia,5222,Rural locality,-35.77694,137.87650,28,0,97500,0.63200,Kangaroo Island,South Australia - South East,Australia/Adelaide
+201,American River,,SA,South Australia,5221,Urban locality,-35.77305,137.77996,15,280,25532,1.82300,Kangaroo Island,South Australia - South East,Australia/Adelaide
+202,Amherst,,VIC,Victoria,3371,Rural locality,-37.14647,143.67017,254,63,23608,34.00000,Central Goldfields,Ballarat,Australia/Melbourne
+203,Amiens,,QLD,Queensland,4380,Rural locality,-28.58362,151.80109,871,343,28548,51.90300,Southern Downs,Darling Downs - Maranoa,Australia/Brisbane
+204,Amity,,QLD,Queensland,4183,Urban locality,-27.39789,153.43908,7,453,25480,5.06300,Redland,Brisbane - East,Australia/Brisbane
+205,Amoonguna,,NT,Northern Territory,0873,Urban locality,-23.76847,133.93067,546,229,13884,5.58800,MacDonnell,Northern Territory - Outback,Australia/Darwin
+206,Amor,,VIC,Victoria,3825,Rural locality,-37.94124,146.39980,521,4,18200,6.46400,Baw Baw,Latrobe - Gippsland,Australia/Melbourne
+207,Amosfield,,NSW,New South Wales,4380,Rural locality,-28.62409,152.06640,870,40,27924,58.08400,Tenterfield,New England and North West,Australia/Sydney
+208,Amphitheatre,,VIC,Victoria,3468,Rural locality,-37.18234,143.39992,280,223,30316,152.46900,Pyrenees,Ballarat,Australia/Melbourne
+209,Ampilatwatja,,NT,Northern Territory,0872,Urban locality,-21.65288,135.22453,399,439,21424,28.27700,Barkly,Northern Territory - Outback,Australia/Darwin
+210,Amyton,,SA,South Australia,5431,Rural locality,-32.60343,138.32739,316,9,18200,75.90000,Mount Remarkable,Barossa - Yorke - Mid North,Australia/Adelaide
+211,Anabranch North,,NSW,New South Wales,2648,Rural locality,-33.29636,141.80229,42,6,71500,1661.39400,Wentworth,Murray,Australia/Sydney
+212,Anabranch South,,NSW,New South Wales,2648,Rural locality,-33.54487,141.73014,56,41,31304,2279.46300,Wentworth,Murray,Australia/Sydney
+213,Anakie,,VIC,Victoria,3213,Rural locality,-37.93803,144.28470,136,734,43628,181.12300,Greater Geelong,Geelong,Australia/Melbourne
+214,Anakie Siding,,QLD,Queensland,4702,Rural locality,-23.59781,147.81019,122,155,26988,253.11400,Central Highlands,Central Queensland,Australia/Brisbane
+215,Anama,,SA,South Australia,5464,Rural locality,-33.68676,138.56545,373,7,37700,24.22400,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,Australia/Adelaide
+216,Anambah,,NSW,New South Wales,2320,Rural locality,-32.67607,151.49513,13,64,32968,11.59200,Maitland,Hunter Valley exc Newcastle,Australia/Sydney
+217,Anangu Pitjantjatjara Yankunytjatjara,,SA,South Australia,0872,Rural locality,-27.07837,131.20604,498,205,20540,102232.20900,Anangu Pitjantjatjara Yunkunytjatjara,South Australia - Outback,Australia/Adelaide
+218,Anatye,,NT,Northern Territory,0872,Rural locality,-23.37944,136.49541,256,160,38792,45033.88300,Central Desert,Northern Territory - Outback,Australia/Darwin
+219,Ancona,,VIC,Victoria,3715,Rural locality,-36.97227,145.79054,324,99,34996,68.44600,Mansfield,Hume,Australia/Melbourne
+220,Andamooka,,SA,South Australia,5722,Urban locality,-30.45360,137.16498,109,262,23972,23.81700,Unincorporated,South Australia - Outback,Australia/Adelaide
+221,Andamooka Station,,SA,South Australia,5719,Rural locality,-30.77681,136.61509,103,7,42224,8794.53800,Unincorporated,South Australia - Outback,Australia/Adelaide
+222,Andergrove,Mackay,QLD,Queensland,4740,Suburb,-21.09694,149.18533,8,9924,43420,8.48000,Mackay,Mackay - Isaac - Whitsunday,Australia/Brisbane
+223,Anderleigh,,QLD,Queensland,4570,Rural locality,-25.99842,152.67358,109,128,28132,48.17700,Gympie,Wide Bay,Australia/Brisbane
+224,Anderson,,VIC,Victoria,3995,Rural locality,-38.52174,145.44930,63,26,36920,5.83100,Bass Coast,Latrobe - Gippsland,Australia/Melbourne
+225,Ando,,NSW,New South Wales,2631,Rural locality,-36.73993,149.26121,884,49,37700,112.16300,Snowy Monaro Regional,Capital Region,Australia/Sydney
+226,Andover,,TAS,Tasmania,7120,Rural locality,-42.33000,147.46064,407,39,48516,73.44600,Southern Midlands,South East,Australia/Hobart
+227,Andrews,,SA,South Australia,5454,Rural locality,-33.59900,138.63124,320,32,27924,77.25500,Northern Areas,Barossa - Yorke - Mid North,Australia/Adelaide
+228,Andrews Farm,Adelaide,SA,South Australia,5114,Suburb,-34.67146,138.66678,33,8699,40144,3.98900,Playford,Adelaide - North,Australia/Adelaide
+229,Andromache,,QLD,Queensland,4800,Rural locality,-20.58452,148.42000,66,17,13624,423.06500,Whitsunday,Mackay - Isaac - Whitsunday,Australia/Brisbane
+230,Anduramba,,QLD,Queensland,4355,Rural locality,-27.13461,152.08588,443,84,35048,283.60700,Toowoomba,Darling Downs - Maranoa,Australia/Brisbane
+231,Anembo,,NSW,New South Wales,2621,Rural locality,-35.80545,149.42833,1076,72,34736,171.82000,Snowy Monaro Regional,Capital Region,Australia/Sydney
+232,Angas Plains,,SA,South Australia,5255,Rural locality,-35.33490,138.96945,21,81,25376,41.39000,Alexandrina,South Australia - South East,Australia/Adelaide
+233,Angaston,,SA,South Australia,5353,Urban locality,-34.50115,139.04683,354,2202,38116,79.59200,Barossa,Barossa - Yorke - Mid North,Australia/Adelaide
+234,Angas Valley,,SA,South Australia,5238,Rural locality,-34.75513,139.30616,79,52,22516,50.23400,Mid Murray,South Australia - South East,Australia/Adelaide
+235,Angelo River,,WA,Western Australia,6642,Rural locality,-24.07860,118.01042,356,3,27924,13971.80300,Meekatharra,Western Australia - Outback (South),Australia/Perth
+236,Angledale,,NSW,New South Wales,2550,Rural locality,-36.63575,149.85715,51,167,35360,26.81300,Bega Valley,Capital Region,Australia/Sydney
+237,Angledool,,NSW,New South Wales,2834,Rural locality,-29.11312,147.90256,151,34,24232,689.31400,Brewarrina,Far West and Orana,Australia/Sydney
+238,Angle Park,Adelaide,SA,South Australia,5010,Suburb,-34.85913,138.56067,11,1555,26832,1.07000,Port Adelaide Enfield,Adelaide - West,Australia/Adelaide
+239,Anglers Reach,,NSW,New South Wales,2629,Rural locality,-35.99920,148.66485,1189,78,25116,11.12700,Snowy Monaro Regional,Capital Region,Australia/Sydney
+240,Anglers Rest,,VIC,Victoria,3898,Rural locality,-37.01433,147.45141,845,31,19916,86.50400,East Gippsland,Latrobe - Gippsland,Australia/Melbourne
+241,Anglesea,,VIC,Victoria,3230,Urban locality,-38.40513,144.18927,10,3208,44304,96.76000,Surf Coast,Geelong,Australia/Melbourne
+242,Angle Vale,,SA,South Australia,5117,Urban locality,-34.64077,138.64660,37,4051,46488,14.05400,Playford,Adelaide - North,Australia/Adelaide
+243,Angourie,,NSW,New South Wales,2464,Urban locality,-29.48101,153.35996,35,192,35724,3.53600,Clarence Valley,Coffs Harbour - Grafton,Australia/Sydney
+244,Angurugu,,NT,Northern Territory,0822,Urban locality,-13.98119,136.46121,16,883,14196,1.51300,East Arnhem,Northern Territory - Outback,Australia/Darwin
+245,Angus,Sydney,NSW,New South Wales,2765,Suburb,-33.68222,150.83416,40,384,39364,6.09000,Blacktown,Sydney - Blacktown,Australia/Sydney
+246,Anindilyakwa,,NT,Northern Territory,0822,Rural locality,-13.97005,136.59334,122,375,22828,2592.73700,East Arnhem,Northern Territory - Outback,Australia/Darwin
+247,Anketell,,WA,Western Australia,6167,Rural locality,-32.21870,115.86538,22,280,40144,6.82200,Kwinana,Perth - South West,Australia/Perth
+248,Anmatjere,,NT,Northern Territory,0872,Rural locality,-22.00828,133.46465,529,446,14716,54462.87400,Central Desert,Northern Territory - Outback,Australia/Darwin
+249,Anna Bay,,NSW,New South Wales,2316,Urban locality,-32.77692,152.08327,7,4221,31824,22.25000,Port Stephens,Hunter Valley exc Newcastle,Australia/Sydney
+250,Anna Creek,,SA,South Australia,5723,Rural locality,-29.48255,135.75279,143,176,92092,19144.33900,Unincorporated,South Australia - Outback,Australia/Adelaide
+251,Annadale,,SA,South Australia,5356,Rural locality,-34.38932,139.38842,73,37,22100,46.77100,Mid Murray,South Australia - South East,Australia/Adelaide
+252,Annandale,Sydney,NSW,New South Wales,2038,Suburb,-33.88144,151.17068,32,9487,74984,1.49300,Inner West,Sydney - Inner West,Australia/Sydney
+253,Annandale,Townsville,QLD,Queensland,4814,Suburb,-19.31109,146.78764,10,8376,48412,6.84000,Townsville,Townsville,Australia/Brisbane
+254,Annangrove,,NSW,New South Wales,2156,Rural locality,-33.65777,150.94351,82,1472,46748,10.24600,The Hills Shire,Sydney - Baulkham Hills and Hawkesbury,Australia/Sydney
+255,Annerley,Brisbane,QLD,Queensland,4103,Suburb,-27.51161,153.03183,45,11891,49816,2.87600,Brisbane,Brisbane - South,Australia/Brisbane
+256,Anniebrook,,WA,Western Australia,6280,Rural locality,-33.66919,115.16909,15,53,28600,13.26300,Busselton,Bunbury,Australia/Perth
+257,Annuello,,VIC,Victoria,3549,Rural locality,-34.84770,142.83012,61,40,38428,320.81100,Swan Hill,North West,Australia/Melbourne
+258,Ansons Bay,,TAS,Tasmania,7264,Rural locality,-41.03789,148.26834,12,62,20436,229.35100,Break O'Day,Launceston and North East,Australia/Hobart
+259,Anstead,Brisbane,QLD,Queensland,4070,Suburb,-27.54559,152.87227,20,1522,55848,13.85200,Brisbane,Brisbane - West,Australia/Brisbane
+260,Antechamber Bay,,SA,South Australia,5222,Rural locality,-35.80174,138.07272,10,13,24648,14.93600,Kangaroo Island,South Australia - South East,Australia/Adelaide
+261,Anthony,,QLD,Queensland,4310,Rural locality,-27.87818,152.68408,97,133,32760,13.83400,Scenic Rim,Ipswich,Australia/Brisbane
+262,Antigua,,QLD,Queensland,4650,Rural locality,-25.63821,152.60253,40,126,26572,17.17000,Fraser Coast,Wide Bay,Australia/Brisbane
+263,Antill Ponds,,TAS,Tasmania,7120,Rural locality,-42.20401,147.40135,293,13,35724,40.48200,Southern Midlands,South East,Australia/Hobart
+264,Antonymyre,,WA,Western Australia,6714,Rural locality,-20.66316,117.09337,8,0,0,25.77400,Karratha,Western Australia - Outback (North),Australia/Perth
+265,Antwerp,,VIC,Victoria,3414,Rural locality,-36.29842,142.02456,100,53,31148,132.78800,Hindmarsh,North West,Australia/Melbourne
+266,Anula,Darwin,NT,Northern Territory,0812,Suburb,-12.39191,130.89015,37,2385,53768,1.31800,Darwin,Darwin,Australia/Darwin
+267,Apamurra,,SA,South Australia,5237,Rural locality,-34.85524,139.19677,159,11,24648,3.74200,Mid Murray,South Australia - South East,Australia/Adelaide
+268,Apoinga,,SA,South Australia,5413,Rural locality,-33.92808,138.93758,468,29,22100,51.62500,Goyder,Barossa - Yorke - Mid North,Australia/Adelaide
+269,Apollo Bay,,TAS,Tasmania,7150,Rural locality,-43.15912,147.29609,29,38,37700,2.29500,Kingborough,South East,Australia/Hobart
+270,Apollo Bay,,VIC,Victoria,3233,Urban locality,-38.74843,143.67043,1,1790,36140,86.91500,Colac Otway,Warrnambool and South West,Australia/Melbourne
+271,Appila,,SA,South Australia,5480,Rural locality,-33.05054,138.42808,371,91,37128,120.15500,Mount Remarkable,Barossa - Yorke - Mid North,Australia/Adelaide
+272,Appin,,NSW,New South Wales,2560,Urban locality,-34.20089,150.78748,242,3213,50492,102.05500,Wollondilly,Sydney - Outer South West,Australia/Sydney
+273,Appin,,VIC,Victoria,3579,Rural locality,-35.88565,143.87805,82,12,23400,37.80800,Gannawarra,North West,Australia/Melbourne
+274,Appin South,,VIC,Victoria,3579,Rural locality,-35.94096,143.85991,86,38,39624,51.53300,Loddon,Bendigo,Australia/Melbourne
+275,Appleby,,NSW,New South Wales,2340,Rural locality,-30.96493,150.82515,365,35,34788,18.15200,Tamworth Regional,New England and North West,Australia/Sydney
+276,Applecross,Perth,WA,Western Australia,6153,Suburb,-32.01940,115.83322,10,7228,60684,3.19500,Melville,Perth - South West,Australia/Perth
+277,Applethorpe,,QLD,Queensland,4378,Rural locality,-28.61395,151.95549,880,571,30628,46.70800,Southern Downs,Darling Downs - Maranoa,Australia/Brisbane
+278,Apple Tree Creek,,QLD,Queensland,4660,Urban locality,-25.21521,152.23400,80,726,28288,23.87900,Bundaberg,Wide Bay,Australia/Brisbane
+279,Appletree Flat,,NSW,New South Wales,2330,Rural locality,-32.51231,150.86485,111,16,66248,28.53200,Singleton,Hunter Valley exc Newcastle,Australia/Sydney
+280,Apple Tree Flat,,NSW,New South Wales,2850,Rural locality,-32.68522,149.70505,490,46,46748,17.02200,Mid-Western Regional,Central West,Australia/Sydney
+281,Apslawn,,TAS,Tasmania,7190,Rural locality,-41.95662,148.16487,43,15,36400,76.21100,Glamorgan-Spring Bay,South East,Australia/Hobart
+282,Apsley,,NSW,New South Wales,2820,Rural locality,-32.59836,148.96393,337,116,35360,28.23000,Dubbo Regional,Far West and Orana,Australia/Sydney
+283,Apsley,,TAS,Tasmania,7030,Rural locality,-42.41812,147.13831,297,44,55224,68.36400,Central Highlands,South East,Australia/Hobart
+284,Apsley,,VIC,Victoria,3319,Rural locality,-36.96756,141.08075,108,329,36504,332.11700,West Wimmera,North West,Australia/Melbourne
+285,Arable,,NSW,New South Wales,2630,Rural locality,-36.36737,148.94553,910,21,82316,116.32700,Snowy Monaro Regional,Capital Region,Australia/Sydney
+286,Arakoon,South West Rocks,NSW,New South Wales,2431,Suburb,-30.88823,153.06696,12,445,30992,24.79400,Kempsey,Mid North Coast,Australia/Sydney
+287,Araluen,,NSW,New South Wales,2622,Rural locality,-35.64693,149.81215,155,209,34112,121.27400,Queanbeyan-Palerang Regional,Capital Region,Australia/Sydney
+288,Araluen,Alice Springs,NT,Northern Territory,0870,Suburb,-23.70239,133.84954,585,2673,66612,4.14700,Alice Springs,Northern Territory - Outback,Australia/Darwin
+289,Araluen,,QLD,Queensland,4570,Rural locality,-26.15949,152.66767,104,649,32032,6.56800,Gympie,Wide Bay,Australia/Brisbane
+290,Aramac,,QLD,Queensland,4726,Urban locality,-22.97216,145.24543,229,372,39104,13502.60000,Barcaldine,Queensland - Outback,Australia/Brisbane
+291,Aramara,,QLD,Queensland,4620,Rural locality,-25.61128,152.32592,129,71,18512,74.82700,Fraser Coast,Wide Bay,Australia/Brisbane
+292,Arana Hills,Brisbane,QLD,Queensland,4054,Suburb,-27.39752,152.95954,46,6971,52260,3.65400,Moreton Bay,Moreton Bay - South,Australia/Brisbane
+293,Aranbanga,,QLD,Queensland,4625,Rural locality,-25.80681,151.67007,314,15,27924,221.39100,North Burnett,Wide Bay,Australia/Brisbane
+294,Aranda,Canberra,ACT,Australian Capital Territory,2614,Suburb,-35.25796,149.07565,632,2605,71344,1.56300,Unincorporated,Australian Capital Territory,Australia/Sydney
+295,Ararat,,VIC,Victoria,3377,Urban locality,-37.28430,142.92823,336,8500,35412,161.17900,Ararat,North West,Australia/Melbourne
+296,Aratula,,NSW,New South Wales,2714,Rural locality,-35.78620,145.29243,108,4,58500,163.38200,Murray River,Murray,Australia/Sydney
+297,Aratula,,QLD,Queensland,4309,Urban locality,-27.98146,152.54862,112,609,32032,26.24700,Scenic Rim,Ipswich,Australia/Brisbane
+298,Arawata,,VIC,Victoria,3951,Rural locality,-38.39491,145.88822,280,92,38428,22.53900,South Gippsland,Latrobe - Gippsland,Australia/Melbourne
+299,Arbouin,,QLD,Queensland,4892,Rural locality,-17.06157,143.99539,242,4,42848,1062.03200,Mareeba,Queensland - Outback,Australia/Brisbane
+300,Arbuckle,,VIC,Victoria,3858,Rural locality,-37.36904,146.82917,1306,0,0,150.50600,Wellington,Latrobe - Gippsland,Australia/Melbourne
+301,Arcadia,,NSW,New South Wales,2159,Rural locality,-33.62310,151.05273,216,1475,47840,22.40900,Hornsby,Sydney - Baulkham Hills and Hawkesbury,Australia/Sydney
+302,Arcadia,,QLD,Queensland,4819,Urban locality,-19.15104,146.86423,10,246,32552,5.85100,Townsville,Townsville,Australia/Brisbane
+303,Arcadia,,VIC,Victoria,3631,Rural locality,-36.54160,145.36256,124,212,40508,76.04900,Greater Shepparton,Shepparton,Australia/Melbourne
+304,Arcadia South,,VIC,Victoria,3631,Rural locality,-36.59378,145.38112,129,95,38428,69.50700,Strathbogie,Hume,Australia/Melbourne
+305,Arcadia Vale,Newcastle,NSW,New South Wales,2283,Suburb,-33.06034,151.57582,34,1431,38896,1.34600,Lake Macquarie,Newcastle and Lake Macquarie,Australia/Sydney
+306,Arcadia Valley,,QLD,Queensland,4702,Rural locality,-25.02985,148.81407,537,141,54704,2115.80400,Central Highlands,Central Queensland,Australia/Brisbane
+307,Archdale,,VIC,Victoria,3475,Rural locality,-36.83090,143.50230,204,23,18200,41.46400,Central Goldfields,Ballarat,Australia/Melbourne
+308,Archdale Junction,,VIC,Victoria,3475,Rural locality,-36.88492,143.51731,204,12,97500,38.09900,Central Goldfields,Ballarat,Australia/Melbourne
+309,Archer,,NT,Northern Territory,0830,Rural locality,-12.51182,130.97059,13,3,42848,11.32500,Palmerston,Darwin,Australia/Darwin
+310,Archerfield,Brisbane,QLD,Queensland,4108,Suburb,-27.56839,153.02417,15,533,35672,4.47800,Brisbane,Brisbane - South,Australia/Brisbane
+311,Archer River,,QLD,Queensland,4892,Rural locality,-13.34792,142.52661,82,27,40248,9381.43100,Cook,Queensland - Outback,Australia/Brisbane
+312,Archerton,,VIC,Victoria,3723,Rural locality,-36.89447,146.25651,945,16,19916,78.97100,Benalla,Hume,Australia/Melbourne
+313,Archies Creek,,VIC,Victoria,3995,Rural locality,-38.54829,145.56373,25,32,24232,0.06900,Bass Coast,Latrobe - Gippsland,Australia/Melbourne
+314,Arcoona,,SA,South Australia,5720,Rural locality,-31.20422,137.19217,94,82,99424,6823.44600,Unincorporated,South Australia - Outback,Australia/Adelaide
+315,Arcturus,,QLD,Queensland,4722,Rural locality,-23.98933,148.33948,197,130,56524,1206.34300,Central Highlands,Central Queensland,Australia/Brisbane
+316,Ardath,,WA,Western Australia,6419,Rural locality,-32.03476,118.10277,280,51,40248,358.31100,Bruce Rock,Western Australia - Wheat Belt,Australia/Perth
+317,Ardeer,Melbourne,VIC,Victoria,3022,Suburb,-37.77596,144.80104,46,3170,36296,2.13100,Brimbank,Melbourne - West,Australia/Melbourne
+318,Ardglen,,NSW,New South Wales,2338,Rural locality,-31.73451,150.78559,627,50,29900,72.27300,Liverpool Plains,New England and North West,Australia/Sydney
+319,Arding,,NSW,New South Wales,2358,Rural locality,-30.58855,151.55675,1053,182,37388,54.77100,Uralla,New England and North West,Australia/Sydney
+320,Ardlethan,,NSW,New South Wales,2665,Urban locality,-34.35736,146.90340,203,472,24232,538.87300,Coolamon,Riverina,Australia/Sydney
+321,Ardmona,,VIC,Victoria,3629,Rural locality,-36.37854,145.29537,110,497,39260,39.21100,Greater Shepparton,Shepparton,Australia/Melbourne
+322,Ardross,Perth,WA,Western Australia,6153,Suburb,-32.02488,115.84141,19,4578,52052,2.25900,Melville,Perth - South West,Australia/Perth
+323,Ardrossan,,SA,South Australia,5571,Urban locality,-34.42295,137.91681,33,1269,25740,24.31800,Yorke Peninsula,Barossa - Yorke - Mid North,Australia/Adelaide
+324,Areegra,,VIC,Victoria,3480,Rural locality,-36.23825,142.68032,112,18,61724,114.86500,Yarriambiack,North West,Australia/Melbourne
+325,Areyonga,,NT,Northern Territory,0872,Urban locality,-24.07205,132.26771,675,236,12064,6.98100,MacDonnell,Northern Territory - Outback,Australia/Darwin
+326,Argalong,,NSW,New South Wales,2720,Rural locality,-35.31550,148.45387,770,16,39624,132.30300,Snowy Valleys,Riverina,Australia/Sydney
+327,Argenton,Newcastle,NSW,New South Wales,2284,Suburb,-32.93481,151.63088,8,1352,32032,1.52300,Lake Macquarie,Newcastle and Lake Macquarie,Australia/Sydney
+328,Argents Hill,,NSW,New South Wales,2449,Rural locality,-30.62195,152.74633,92,207,27300,76.25500,Nambucca Valley,Mid North Coast,Australia/Sydney
+329,Argoon,,NSW,New South Wales,2707,Rural locality,-34.85828,145.67415,113,16,68224,247.12500,Murrumbidgee,Riverina,Australia/Sydney
+330,Argyle,,VIC,Victoria,3523,Rural locality,-36.96738,144.71689,307,272,25844,19.93000,Greater Bendigo,Bendigo,Australia/Melbourne
+331,Argyle,,WA,Western Australia,6239,Rural locality,-33.54822,115.76634,61,575,43212,13.79300,Donnybrook-Balingup,Bunbury,Australia/Perth
+332,Argyll,,QLD,Queensland,4721,Rural locality,-23.27732,147.56250,351,25,69316,1240.42700,Central Highlands,Central Queensland,Australia/Brisbane
+333,Ariah Park,,NSW,New South Wales,2665,Urban locality,-34.34811,147.22122,253,439,31252,489.99100,Temora,Riverina,Australia/Sydney
+334,Arkaroola,,SA,South Australia,5732,Rural locality,-30.13370,139.64033,215,32,68224,6058.80800,Unincorporated,South Australia - Outback,Australia/Adelaide
+335,Arkell,,NSW,New South Wales,2795,Rural locality,-33.72778,149.38295,944,36,35724,66.86000,Bathurst Regional,Central West,Australia/Sydney
+336,Arkstone,,NSW,New South Wales,2795,Rural locality,-34.04242,149.64425,957,24,58500,79.37100,Oberon,Central West,Australia/Sydney
+337,Armadale,Melbourne,VIC,Victoria,3143,Suburb,-37.85532,145.01914,48,9368,70408,2.14300,Stonnington,Melbourne - Inner,Australia/Melbourne
+338,Armadale,Perth,WA,Western Australia,6112,Suburb,-32.15239,116.00827,55,13415,29016,8.28300,Armadale,Perth - South East,Australia/Perth
+339,Armagh,,SA,South Australia,5453,Rural locality,-33.83679,138.57943,401,351,46956,16.19000,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,Australia/Adelaide
+340,Armatree,,NSW,New South Wales,2828,Rural locality,-31.44798,148.46345,240,164,41964,484.98000,Gilgandra,Far West and Orana,Australia/Sydney
+341,Armidale,,NSW,New South Wales,2350,Major urban locality,-30.51417,151.66899,979,23967,37960,274.60000,Armidale Regional,New England and North West,Australia/Sydney
+342,Armstrong,,VIC,Victoria,3377,Rural locality,-37.21003,142.88499,306,90,42640,19.18500,Ararat,North West,Australia/Melbourne
+343,Armstrong Beach,,QLD,Queensland,4737,Urban locality,-21.45491,149.28956,10,903,41444,22.23600,Mackay,Mackay - Isaac - Whitsunday,Australia/Brisbane
+344,Armstrong Creek,,QLD,Queensland,4520,Rural locality,-27.22574,152.82965,73,328,50440,34.30500,Moreton Bay,Moreton Bay - South,Australia/Brisbane
+345,Armstrong Creek,Geelong,VIC,Victoria,3217,Suburb,-38.23391,144.37108,12,11247,51844,18.34300,Greater Geelong,Geelong,Australia/Melbourne
+346,Arncliffe,Sydney,NSW,New South Wales,2205,Suburb,-33.93632,151.14469,26,12023,44512,2.94300,Bayside,Sydney - Inner South West,Australia/Sydney
+347,Arndell Park,Sydney,NSW,New South Wales,2148,Suburb,-33.78727,150.87196,45,6,62816,2.00100,Blacktown,Sydney - Blacktown,Australia/Sydney
+348,Arno Bay,,SA,South Australia,5603,Urban locality,-33.91190,136.56835,2,314,30264,233.63400,Cleve,South Australia - Outback,Australia/Adelaide
+349,Arnold,,NT,Northern Territory,0852,Rural locality,-15.80974,134.14711,145,75,71500,18238.47500,Roper Gulf,Northern Territory - Outback,Australia/Darwin
+350,Arnold,,VIC,Victoria,3551,Rural locality,-36.69082,143.86837,163,56,37700,49.49000,Loddon,Bendigo,Australia/Melbourne
+351,Arnold West,,VIC,Victoria,3551,Rural locality,-36.66177,143.76205,199,19,29900,34.54900,Loddon,Bendigo,Australia/Melbourne
+352,Aroona,Sunshine Coast,QLD,Queensland,4551,Suburb,-26.77538,153.11317,16,3466,40300,1.89200,Sunshine Coast,Sunshine Coast,Australia/Brisbane
+353,Arrawarra,,NSW,New South Wales,2456,Urban locality,-30.05960,153.18789,15,591,26312,2.81800,Coffs Harbour,Coffs Harbour - Grafton,Australia/Sydney
+354,Arrawarra Headland,,NSW,New South Wales,2456,Urban locality,-30.05977,153.20274,13,615,35256,2.68000,Coffs Harbour,Coffs Harbour - Grafton,Australia/Sydney
+355,Arriga,,QLD,Queensland,4880,Rural locality,-17.10991,145.30199,501,1323,48048,155.72000,Mareeba,Queensland - Outback,Australia/Brisbane
+356,Arrino,,WA,Western Australia,6519,Rural locality,-29.44006,115.62837,267,48,37700,398.72600,Three Springs,Western Australia - Outback (South),Australia/Perth
+357,Arrowsmith,,WA,Western Australia,6525,Rural locality,-29.54356,115.06993,32,17,20748,820.67000,Irwin,Western Australia - Outback (South),Australia/Perth
+358,Arrowsmith East,,WA,Western Australia,6519,Rural locality,-29.61460,115.34013,196,61,72748,812.01100,Three Springs,Western Australia - Outback (South),Australia/Perth
+359,Artarmon,Sydney,NSW,New South Wales,2064,Suburb,-33.80943,151.18566,86,9417,62504,2.53500,Willoughby,Sydney - North Sydney and Hornsby,Australia/Sydney
+360,Arthur River,,TAS,Tasmania,7330,Rural locality,-41.05955,144.68187,39,32,22048,38.59100,Circular Head,West and North West,Australia/Hobart
+361,Arthur River,,WA,Western Australia,6315,Rural locality,-33.33805,117.03417,290,66,51220,477.25600,West Arthur,Western Australia - Wheat Belt,Australia/Perth
+362,Arthurs Creek,,VIC,Victoria,3099,Rural locality,-37.58770,145.21816,132,478,43368,39.17500,Nillumbik,Melbourne - North East,Australia/Melbourne
+363,Arthurs Lake,,TAS,Tasmania,7030,Rural locality,-42.00249,146.96593,958,9,24232,215.31200,Central Highlands,South East,Australia/Hobart
+364,Arthurs Seat,,VIC,Victoria,3936,Urban locality,-38.35443,144.94979,308,414,49504,8.81500,Mornington Peninsula,Mornington Peninsula,Australia/Melbourne
+365,Arthurton,,SA,South Australia,5572,Rural locality,-34.25753,137.75640,204,157,38324,145.01100,Yorke Peninsula,Barossa - Yorke - Mid North,Australia/Adelaide
+366,Arthurville,,NSW,New South Wales,2820,Rural locality,-32.55484,148.74271,310,47,49348,72.54000,Dubbo Regional,Far West and Orana,Australia/Sydney
+367,Arumbera,,NT,Northern Territory,0873,Rural locality,-23.78482,133.81467,558,257,16536,70.08800,Alice Springs,Northern Territory - Outback,Australia/Darwin
+368,Arumpo,,NSW,New South Wales,2715,Rural locality,-33.87362,142.88526,77,40,48256,5396.40800,Wentworth,Murray,Australia/Sydney
+369,Arundel,Gold Coast,QLD,Queensland,4214,Suburb,-27.93971,153.37278,14,11171,37180,10.38300,Gold Coast,Gold Coast,Australia/Brisbane
+370,Ascot,Brisbane,QLD,Queensland,4007,Suburb,-27.43027,153.05868,35,6531,60476,2.79900,Brisbane,Brisbane Inner City,Australia/Brisbane
+371,Ascot,,QLD,Queensland,4359,Rural locality,-27.82540,151.99673,466,106,42328,33.48400,Toowoomba,Darling Downs - Maranoa,Australia/Brisbane
+372,Ascot,,VIC,Victoria,3364,Rural locality,-37.40088,143.80251,416,93,38116,36.42900,Ballarat,Ballarat,Australia/Melbourne
+373,Ascot,Bendigo,VIC,Victoria,3551,Suburb,-36.71225,144.33338,198,2571,43628,10.55200,Greater Bendigo,Bendigo,Australia/Melbourne
+374,Ascot,Perth,WA,Western Australia,6104,Suburb,-31.94068,115.92300,4,3095,53820,3.76100,Belmont,Perth - South East,Australia/Perth
+375,Ascot Park,Adelaide,SA,South Australia,5043,Suburb,-34.98693,138.56464,26,3588,40716,1.00400,Marion,Adelaide - South,Australia/Adelaide
+376,Ascot Vale,Melbourne,VIC,Victoria,3032,Suburb,-37.77583,144.92338,38,15197,56160,3.83900,Moonee Valley,Melbourne - Inner,Australia/Melbourne
+377,Ashbourne,,SA,South Australia,5157,Rural locality,-35.28283,138.77018,154,308,38272,58.45600,Alexandrina,South Australia - South East,Australia/Adelaide
+378,Ashbourne,,VIC,Victoria,3442,Rural locality,-37.40543,144.45857,648,242,58864,37.84300,Macedon Ranges,Bendigo,Australia/Melbourne
+379,Ashburton,Melbourne,VIC,Victoria,3147,Suburb,-37.86339,145.07942,60,7952,52104,2.92300,Boroondara,Melbourne - Inner East,Australia/Melbourne
+380,Ashbury,Sydney,NSW,New South Wales,2193,Suburb,-33.90190,151.11932,20,3353,46384,1.03100,Canterbury-Bankstown,Sydney - Inner West,Australia/Sydney
+381,Ashby,,NSW,New South Wales,2463,Rural locality,-29.42393,153.18745,25,316,28288,14.03000,Clarence Valley,Coffs Harbour - Grafton,Australia/Sydney
+382,Ashby,Perth,WA,Western Australia,6065,Suburb,-31.73421,115.79245,39,2850,39520,1.40300,Wanneroo,Perth - North West,Australia/Perth
+383,Ashby Heights,,NSW,New South Wales,2463,Rural locality,-29.41374,153.17939,122,292,26208,32.34900,Clarence Valley,Coffs Harbour - Grafton,Australia/Sydney
+384,Ashby Island,,NSW,New South Wales,2463,Rural locality,-29.43097,153.20263,1,18,35724,2.41000,Clarence Valley,Coffs Harbour - Grafton,Australia/Sydney
+385,Ashcroft,Sydney,NSW,New South Wales,2168,Suburb,-33.91759,150.89910,17,3634,23816,1.15400,Liverpool,Sydney - South West,Australia/Sydney
+386,Ashendon,,WA,Western Australia,6111,Rural locality,-32.23124,116.14054,349,3,0,210.52500,Armadale,Perth - South East,Australia/Perth
+387,Ashfield,Sydney,NSW,New South Wales,2131,Suburb,-33.88953,151.12586,47,23012,46280,3.41400,Inner West,Sydney - Inner West,Australia/Sydney
+388,Ashfield,Bundaberg,QLD,Queensland,4670,Suburb,-24.87276,152.39614,26,1152,45864,4.88400,Bundaberg,Wide Bay,Australia/Brisbane
+389,Ashfield,Perth,WA,Western Australia,6054,Suburb,-31.91520,115.93764,23,1395,42484,0.74100,Bassendean,Perth - North East,Australia/Perth
+390,Ashford,,NSW,New South Wales,2361,Urban locality,-29.32125,151.09608,430,659,23972,681.04700,Inverell,New England and North West,Australia/Sydney
+391,Ashford,Adelaide,SA,South Australia,5035,Suburb,-34.94871,138.57395,31,1157,45396,0.32900,West Torrens,Adelaide - West,Australia/Adelaide
+392,Ashgrove,Brisbane,QLD,Queensland,4060,Suburb,-27.44560,152.99212,38,13450,60008,5.82600,Brisbane,Brisbane Inner City,Australia/Brisbane
+393,Ashley,,NSW,New South Wales,2400,Urban locality,-29.31777,149.80806,204,351,49660,332.76700,Moree Plains,New England and North West,Australia/Sydney
+394,Ashmont,Wagga Wagga,NSW,New South Wales,2650,Suburb,-35.12318,147.32996,190,3747,30004,2.42900,Wagga Wagga,Riverina,Australia/Sydney
+395,Ashmore,Gold Coast,QLD,Queensland,4214,Suburb,-27.98638,153.38205,27,12415,38480,6.83100,Gold Coast,Gold Coast,Australia/Brisbane
+396,Ashton,,SA,South Australia,5137,Rural locality,-34.93973,138.73739,546,481,49088,6.74300,Adelaide Hills,Adelaide - Central and Hills,Australia/Adelaide
+397,Ashtonfield,Maitland,NSW,New South Wales,2323,Suburb,-32.77382,151.60100,43,4589,46332,6.83400,Maitland,Hunter Valley exc Newcastle,Australia/Sydney
+398,Ashville,,SA,South Australia,5259,Rural locality,-35.51045,139.36576,7,28,46800,113.22800,Coorong,South Australia - South East,Australia/Adelaide
+399,Ashwell,,QLD,Queensland,4340,Rural locality,-27.62846,152.56010,73,97,35724,7.53400,Ipswich,Ipswich,Australia/Brisbane
+400,Ashwood,Melbourne,VIC,Victoria,3147,Suburb,-37.86469,145.09306,76,7154,43160,2.54500,Monash,Melbourne - South East,Australia/Melbourne
+401,Aspendale,Melbourne,VIC,Victoria,3195,Suburb,-38.02648,145.10191,10,7285,53196,3.02900,Kingston,Melbourne - Inner South,Australia/Melbourne
+402,Aspendale Gardens,Melbourne,VIC,Victoria,3195,Suburb,-38.02346,145.11837,5,6427,42120,3.24000,Kingston,Melbourne - Inner South,Australia/Melbourne
+403,Aspley,Brisbane,QLD,Queensland,4034,Suburb,-27.36386,153.01574,25,12871,43992,6.41100,Brisbane,Brisbane - North,Australia/Brisbane
+404,Asquith,Sydney,NSW,New South Wales,2077,Suburb,-33.68748,151.10869,186,6160,54132,3.50300,Hornsby,Sydney - North Sydney and Hornsby,Australia/Sydney
+405,Athelstone,Adelaide,SA,South Australia,5076,Suburb,-34.86980,138.70285,121,9601,43108,6.20400,Campbelltown,Adelaide - Central and Hills,Australia/Adelaide
+406,Atherton,,QLD,Queensland,4883,Urban locality,-17.26827,145.47457,766,7724,33332,94.18600,Tablelands,Cairns,Australia/Brisbane
+407,Athlone,,VIC,Victoria,3818,Rural locality,-38.23990,145.77982,79,147,42068,30.36000,Baw Baw,Latrobe - Gippsland,Australia/Melbourne
+408,Athol,,QLD,Queensland,4350,Rural locality,-27.61535,151.77485,517,139,42120,26.74600,Toowoomba,Darling Downs - Maranoa,Australia/Brisbane
+409,Athol Park,Adelaide,SA,South Australia,5012,Suburb,-34.85768,138.54263,9,2023,33800,0.94300,Charles Sturt,Adelaide - West,Australia/Adelaide
+410,Atholwood,,NSW,New South Wales,2361,Rural locality,-28.99964,151.05801,420,68,26624,454.45600,Inverell,New England and North West,Australia/Sydney
+411,Atitjere,,NT,Northern Territory,0872,Urban locality,-22.98305,134.93172,571,204,17992,7.01400,Central Desert,Northern Territory - Outback,Australia/Darwin
+412,Atkinsons Dam,,QLD,Queensland,4311,Rural locality,-27.42101,152.45551,63,191,27820,26.68900,Somerset,Ipswich,Australia/Brisbane
+413,Attadale,Perth,WA,Western Australia,6156,Suburb,-32.02581,115.80135,18,6638,55432,3.11400,Melville,Perth - South West,Australia/Perth
+414,Attunga,,NSW,New South Wales,2345,Rural locality,-30.89480,150.82465,469,542,39364,218.72100,Tamworth Regional,New England and North West,Australia/Sydney
+415,Attwood,Melbourne,VIC,Victoria,3049,Suburb,-37.66752,144.88529,120,3309,42848,5.05900,Hume,Melbourne - North West,Australia/Melbourne
+416,Atwell,Perth,WA,Western Australia,6164,Suburb,-32.13280,115.86059,26,9287,48828,3.54100,Cockburn,Perth - South West,Australia/Perth
+417,Aubigny,,QLD,Queensland,4401,Rural locality,-27.52223,151.64174,418,283,45604,57.54000,Toowoomba,Darling Downs - Maranoa,Australia/Brisbane
+418,Aubin Grove,Perth,WA,Western Australia,6164,Suburb,-32.16841,115.86112,27,6786,56472,2.47300,Cockburn,Perth - South West,Australia/Perth
+419,Aubrey,,VIC,Victoria,3393,Rural locality,-36.24110,142.23414,118,3,31824,61.60900,Yarriambiack,North West,Australia/Melbourne
+420,Auburn,Sydney,NSW,New South Wales,2144,Suburb,-33.84932,151.03342,24,39333,30160,8.56400,Cumberland,Sydney - Parramatta,Australia/Sydney
+421,Auburn,,QLD,Queensland,4413,Rural locality,-25.99990,150.50818,308,23,71500,1156.86600,Western Downs,Darling Downs - Maranoa,Australia/Brisbane
+422,Auburn,,SA,South Australia,5451,Urban locality,-34.02800,138.68164,319,668,37336,119.85300,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,Australia/Adelaide
+423,Auburn Vale,,NSW,New South Wales,2360,Rural locality,-29.83895,151.04172,637,127,40976,63.64700,Inverell,New England and North West,Australia/Sydney
+424,Auchenflower,Brisbane,QLD,Queensland,4066,Suburb,-27.47553,152.99342,16,6053,56212,1.39000,Brisbane,Brisbane Inner City,Australia/Brisbane
+425,Auchmore,,VIC,Victoria,3570,Rural locality,-36.47236,144.09569,120,5,74724,74.53300,Loddon,Bendigo,Australia/Melbourne
+426,Augathella,,QLD,Queensland,4477,Urban locality,-25.79469,146.58661,372,393,34320,1459.05000,Murweh,Queensland - Outback,Australia/Brisbane
+427,Augusta,,WA,Western Australia,6290,Urban locality,-34.31594,115.15973,35,1463,28132,29.94400,Augusta Margaret River,Bunbury,Australia/Perth
+428,Augustine Heights,Brisbane,QLD,Queensland,4300,Suburb,-27.66915,152.89354,87,6088,57564,5.48000,Ipswich,Ipswich,Australia/Brisbane
+429,Auldana,Adelaide,SA,South Australia,5072,Suburb,-34.91972,138.68440,199,629,54496,0.60900,Burnside,Adelaide - Central and Hills,Australia/Adelaide
+430,Aurukun,,QLD,Queensland,4892,Rural locality,-13.60938,141.82845,51,1101,17212,7423.98900,Aurukun,Queensland - Outback,Australia/Brisbane
+431,Austinmer,Wollongong,NSW,New South Wales,2515,Suburb,-34.30628,150.93456,8,2725,56160,3.35700,Wollongong,Illawarra,Australia/Sydney
+432,Austins Ferry,Hobart,TAS,Tasmania,7011,Suburb,-42.77502,147.24882,42,2395,39624,2.13300,Glenorchy,Hobart,Australia/Hobart
+433,Austinville,,QLD,Queensland,4213,Rural locality,-28.13582,153.31749,104,403,34944,22.40400,Gold Coast,Gold Coast,Australia/Brisbane
+434,Austral,Sydney,NSW,New South Wales,2179,Suburb,-33.93311,150.81203,85,6847,48360,17.66100,Liverpool,Sydney - South West,Australia/Sydney
+435,Austral Eden,,NSW,New South Wales,2440,Rural locality,-31.02195,152.93780,4,145,33176,13.61900,Kempsey,Mid North Coast,Australia/Sydney
+436,Australia Plains,,SA,South Australia,5374,Rural locality,-34.09380,139.16909,272,41,21736,91.36900,Goyder,Barossa - Yorke - Mid North,Australia/Adelaide
+437,Australind,Bunbury,WA,Western Australia,6233,Suburb,-33.27903,115.71443,7,15988,41444,23.06200,Harvey,Bunbury,Australia/Perth
+438,Avalon,,VIC,Victoria,3212,Rural locality,-38.05097,144.45169,10,255,26572,45.16500,Greater Geelong,Geelong,Australia/Melbourne
+439,Avalon Beach,Sydney,NSW,New South Wales,2107,Suburb,-33.63633,151.33060,10,10379,51740,5.15200,Northern Beaches,Sydney - Northern Beaches,Australia/Sydney
+440,Aveley,Perth,WA,Western Australia,6069,Suburb,-31.78131,115.98923,29,13998,54392,6.10200,Swan,Perth - North East,Australia/Perth
+441,Avenel,,VIC,Victoria,3664,Urban locality,-36.89279,145.23059,150,1112,38948,204.91000,Strathbogie,Hume,Australia/Melbourne
+442,Avenell Heights,Bundaberg,QLD,Queensland,4670,Suburb,-24.89048,152.37388,27,5028,29432,3.05200,Bundaberg,Wide Bay,Australia/Brisbane
+443,Avenue Range,,SA,South Australia,5273,Rural locality,-36.90180,140.23000,23,112,49348,316.59400,Naracoorte Lucindale,South Australia - South East,Australia/Adelaide
+444,Avisford,,NSW,New South Wales,2850,Rural locality,-32.74558,149.48011,541,45,35048,18.30300,Mid-Western Regional,Central West,Australia/Sydney
+445,Avoca,,NSW,New South Wales,2577,Rural locality,-34.61352,150.47932,756,208,45032,24.62500,Wingecarribee,Southern Highlands and Shoalhaven,Australia/Sydney
+446,Avoca,Bundaberg,QLD,Queensland,4670,Suburb,-24.88185,152.31255,24,4912,32188,6.12100,Bundaberg,Wide Bay,Australia/Brisbane
+447,Avoca,,TAS,Tasmania,7213,Rural locality,-41.78215,147.72044,209,192,22620,393.79900,Northern Midlands,Launceston and North East,Australia/Hobart
+448,Avoca,,VIC,Victoria,3467,Urban locality,-37.08854,143.47380,242,1356,26156,102.80900,Pyrenees,Ballarat,Australia/Melbourne
+449,Avoca Beach,Central Coast,NSW,New South Wales,2251,Suburb,-33.46494,151.43239,10,4708,48204,4.44200,Central Coast,Central Coast,Australia/Sydney
+450,Avoca Dell,,SA,South Australia,5253,Rural locality,-35.08855,139.30897,6,166,43680,0.72000,Murray Bridge,South Australia - South East,Australia/Adelaide
+451,Avoca Vale,,QLD,Queensland,4314,Rural locality,-26.75581,152.23556,151,20,31824,205.30300,Somerset,Moreton Bay - North,Australia/Brisbane
+452,Avon,,NSW,New South Wales,2574,Rural locality,-34.35207,150.63475,370,0,0,265.82000,Wingecarribee,Illawarra,Australia/Sydney
+453,Avon,,SA,South Australia,5501,Rural locality,-34.28116,138.33875,33,64,25220,50.40000,Wakefield,Barossa - Yorke - Mid North,Australia/Adelaide
+454,Avondale,,NSW,New South Wales,2530,Rural locality,-34.51418,150.73377,54,1695,37700,18.31300,Wollongong,Illawarra,Australia/Sydney
+455,Avondale,,QLD,Queensland,4670,Rural locality,-24.74144,152.16123,27,701,27040,70.04000,Bundaberg,Wide Bay,Australia/Brisbane
+456,Avondale Heights,Melbourne,VIC,Victoria,3034,Suburb,-37.76946,144.86509,40,12388,34632,5.40900,Moonee Valley,Melbourne - North West,Australia/Melbourne
+457,Avonmore,,VIC,Victoria,3559,Rural locality,-36.52988,144.60446,134,42,35724,70.56400,Greater Bendigo,Bendigo,Australia/Melbourne
+458,Avon Plains,,VIC,Victoria,3477,Rural locality,-36.53999,142.89554,141,8,81224,62.30500,Northern Grampians,North West,Australia/Melbourne
+459,Avonside,,NSW,New South Wales,2628,Rural locality,-36.36398,148.72882,1086,157,48256,57.36500,Snowy Monaro Regional,Capital Region,Australia/Sydney
+460,Avonsleigh,Melbourne,VIC,Victoria,3782,Suburb,-37.92070,145.46725,278,844,45032,7.56200,Cardinia,Melbourne - South East,Australia/Melbourne
+461,Avon Valley National Park,,WA,Western Australia,6084,Rural locality,-31.64627,116.20684,318,5,39624,74.96100,Swan,Perth - North East,Australia/Perth
+462,Awaba,,NSW,New South Wales,2283,Urban locality,-33.00774,151.54341,59,430,40560,23.11900,Lake Macquarie,Newcastle and Lake Macquarie,Australia/Sydney
+463,Axe Creek,,VIC,Victoria,3551,Rural locality,-36.84893,144.41948,248,452,41808,42.36600,Greater Bendigo,Bendigo,Australia/Melbourne
+464,Axedale,,VIC,Victoria,3551,Urban locality,-36.78792,144.50413,174,984,42276,113.61400,Greater Bendigo,Bendigo,Australia/Melbourne
+465,Aylmerton,Bowral - Mittagong,NSW,New South Wales,2575,Suburb,-34.41907,150.49274,599,195,40560,2.79600,Wingecarribee,Southern Highlands and Shoalhaven,Australia/Sydney
+466,Ayr,,QLD,Queensland,4807,Urban locality,-19.57605,147.40517,16,8603,36452,28.47300,Burdekin,Townsville,Australia/Brisbane
+467,Ayrford,,VIC,Victoria,3268,Rural locality,-38.41566,142.85945,97,39,39988,12.90000,Moyne,Warrnambool and South West,Australia/Melbourne
