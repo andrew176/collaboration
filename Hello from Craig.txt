@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change to test
+=======
+Hello Craig
+>>>>>>> 71ca38d94671f44269529f66f673291c34a29d77
